@@ -4,7 +4,7 @@ Deploy a scalable web application on AWS cloud
 
 Deploying a static web application to AWS using GitHub involves several steps. You can use AWS S3 for hosting the static site, AWS CloudFront for content delivery, and GitHub Actions for automating the deployment process. Here's a step-by-step guide:
 
-Prerequisites
+Prequisites
 AWS Account: Sign up if you don’t have one.
 AWS CLI: Install and configure it on your local machine.
 GitHub Account: Create a repository for your static site.
